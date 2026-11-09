@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="ПР 11.02 - Сравнение дат" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="practice11.Task02" />
+    <module name="java-practice-2" />
+    <option name="PROGRAM_PARAMETERS" value="" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

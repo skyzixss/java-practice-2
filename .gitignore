@@ -1,0 +1,7 @@
+out/
+*.class
+.DS_Store
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/shelf/
+.idea/httpRequests/
